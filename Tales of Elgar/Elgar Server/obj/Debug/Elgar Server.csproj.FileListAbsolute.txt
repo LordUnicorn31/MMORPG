@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\bin\Debug\Elgar Server.exe.config
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\bin\Debug\Elgar Server.exe
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\bin\Debug\Elgar Server.pdb
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\obj\Debug\Elgar Server.csprojAssemblyReference.cache
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\obj\Debug\Elgar Server.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\obj\Debug\Elgar Server.exe
+c:\users\usuario\source\repos\Tales of Elgar\Elgar Server\obj\Debug\Elgar Server.pdb

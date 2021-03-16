@@ -1,0 +1,25 @@
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Tales of Elgar.exe
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Tales of Elgar.pdb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\obj\Debug\Tales of Elgar.csprojAssemblyReference.cache
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\obj\Debug\Tales of Elgar.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\obj\Debug\Tales of Elgar.csproj.CopyComplete
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\obj\Debug\Tales of Elgar.exe
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\obj\Debug\Tales of Elgar.pdb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Content\1.xnb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Content\2.xnb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Content\3.xnb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Content\4.xnb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Content\5.xnb
+c:\users\usuario\source\repos\Tales of Elgar\Tales of Elgar\bin\DesktopGL\AnyCPU\Debug\Content\6.xnb
